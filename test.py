@@ -1,2 +1,2 @@
 import os
-print(os.DirEntry)
+print(os.listdir())
